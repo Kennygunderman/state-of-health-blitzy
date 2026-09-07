@@ -1,0 +1,8 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Kennygunderman/state-of-health-tracker.git
+	branch = master
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Kennygunderman/state-of-health-be.git
+	branch = main
